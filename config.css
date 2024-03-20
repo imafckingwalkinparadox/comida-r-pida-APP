@@ -1,0 +1,127 @@
+.section1 {
+    margin-top: 5.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #343434;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.4rem;
+    padding: 2rem;
+
+    font-size: 2rem;
+}
+
+.logo {
+    width: 4rem;
+    height: 4rem;
+    display: flex;
+    
+}
+.bordes{
+    width: 10.2rem;
+    height: 4rem;
+
+    padding: 3rem;
+    margin-top: auto;
+       
+}
+
+.ordenes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.4rem;
+    padding: 2rem;
+
+    font-size: 2rem;
+}
+
+
+.section2 {
+    width: 100%;
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.ventas {
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.4rem;
+    padding: 2rem;
+}
+
+.precio {
+    color: #C34753;
+}
+
+.Item {
+    color: #949494;
+}
+
+.completed {
+    background: #C3E8D8;
+    border-radius: 8rem;
+}
+
+.Cancelled {
+    background: #F6D1D1;
+    border-radius: 8rem;
+    display: flex;
+
+}
+
+.ventas2 {
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 90px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3.7rem;
+    padding: 2rem;
+}
+
+.ventas3 {
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 90px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem;
+    padding: 2rem;
+}
+
+.ventas4 {
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 90px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.7rem;
+    padding: 2rem;
+}
+
+.section3 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconos {
+    width: 10%;
+    height: 5rem;
+}
